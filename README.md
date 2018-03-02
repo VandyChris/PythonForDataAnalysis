@@ -2,4 +2,4 @@
 
 ## You can find the book in http://shop.oreilly.com/product/0636920023784.do
 
-[alt tag] (https://covers.oreillystatic.com/images/0636920023784/lrg.jpg "Book Cover")
+![alt text](lrg.jpg "Description goes here")
