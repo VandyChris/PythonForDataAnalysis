@@ -1,5 +1,7 @@
 ## This repository contains my book note for "Python For Data Analysis"
 
+## The note is in BookNote.ipynb. Others are supporting files
+
 ## You can find the book in http://shop.oreilly.com/product/0636920023784.do
 
 ![alt text](lrg.jpg "Book Cover")
